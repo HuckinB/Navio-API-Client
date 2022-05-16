@@ -30,7 +30,7 @@ Documentation for API can be found on the [Docs](https://docs.navio.app/api-gett
 
 ## Support
 
-If you have any questions about the client, please create an issues ticket [New](https://github.com/HuckinB/Navio-API-CLient/issues/new)
+If you have any questions about the client, please create an issues ticket [New](https://github.com/HuckinB/Navio-API-Client/issues/new)
 
 ## License
 

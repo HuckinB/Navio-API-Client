@@ -9,6 +9,13 @@ The Navio PHP Client grants users easier access to the Navio API. Allowing you t
 
 - PHP 7.4 or later
 - Composer
+- API Key is set in config/services.php
+
+```php
+  'navio' => [
+    'apikey' => env('NAVIO_API_KEY'),
+  ],
+```
 
 ## Composer
 
